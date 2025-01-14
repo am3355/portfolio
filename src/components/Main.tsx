@@ -17,7 +17,7 @@ function Main() {
             <a href="https://github.com/am3355" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/abzal-mohammad-15609a332/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Abzal Rahima Kowsar</h1>
+          <h1>Abzal Rahima Kowsar Mohammad</h1>
           <p>Business Analyst</p>
 
           <div className="mobile_social_icons">
