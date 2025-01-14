@@ -17,7 +17,7 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="Mar 2024 - Present"
+            date="Jan 2024 - Present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -27,7 +27,6 @@ function Timeline() {
               Tableau, Power BI Dashboards, SQL, Python, Stakeholder Workshops, Agile Project Management
             </p>
           </VerticalTimelineElement>
-
           {/* Update this section to Centillion Infotech, Business Analyst Intern */}
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -55,7 +54,7 @@ function Timeline() {
               Market Research, Data Visualization, User Engagement Optimization
             </p>
           </VerticalTimelineElement>
-   {/* Update this section to Byte Craft, Business Analyst*/}
+         {/* Update this section to Byte Craft, Business Analyst*/}
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="Jun 2020 - Dec 2021"
@@ -68,7 +67,7 @@ function Timeline() {
               Business Process Mapping, Stakeholder Engagement, Advanced Excel, AWS, Azure, Data Warehousing
             </p>
           </VerticalTimelineElement>
- {/* Update this section to HERE Technologies, GIS Analyst Intern*/}
+          {/* Update this section to HERE Technologies, GIS Analyst Intern*/}
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="May 2019 - Oct 2019"
