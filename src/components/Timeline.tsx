@@ -55,13 +55,11 @@ function Timeline() {
               Market Research, Data Visualization, User Engagement Optimization
             </p>
           </VerticalTimelineElement>
-
-          {/* Update this section to match Data Analyst Intern experience */}
         </VerticalTimeline>
-         {/* Update this section to Byte Craft, Business Analyst Software Engineer*/}
+   {/* Update this section to Byte Craft, Business Analyst*/}
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="Feb 2023 - Aug 2023"
+            date="Jun 2020 - Dec 2021"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -69,6 +67,19 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle">Byte Craft, Hyderabad</h4>
             <p>
               Business Process Mapping, Stakeholder Engagement, Advanced Excel, AWS, Azure, Data Warehousing
+            </p>
+          </VerticalTimelineElement>
+ {/* Update this section to HERE Technologies, GIS Analyst Intern*/}
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="May 2019 - Oct 2019"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">GIS Analyst Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">HERE Technologies, Hyderabad</h4>
+            <p>
+              Geographical Information System, Remote Sensing, SQL, ArcGIS, Azure, Python
             </p>
           </VerticalTimelineElement>
       </div>
