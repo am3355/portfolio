@@ -58,6 +58,19 @@ function Timeline() {
 
           {/* Update this section to match Data Analyst Intern experience */}
         </VerticalTimeline>
+         {/* Update this section to Byte Craft, Business Analyst Software Engineer*/}
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="Feb 2023 - Aug 2023"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Business Analyst</h3>
+            <h4 className="vertical-timeline-element-subtitle">Byte Craft, Hyderabad</h4>
+            <p>
+              Business Process Mapping, Stakeholder Engagement, Advanced Excel, AWS, Azure, Data Warehousing
+            </p>
+          </VerticalTimelineElement>
       </div>
     </div>
   );
