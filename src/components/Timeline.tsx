@@ -55,7 +55,6 @@ function Timeline() {
               Market Research, Data Visualization, User Engagement Optimization
             </p>
           </VerticalTimelineElement>
-        </VerticalTimeline>
    {/* Update this section to Byte Craft, Business Analyst*/}
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -82,6 +81,7 @@ function Timeline() {
               Geographical Information System, Remote Sensing, SQL, ArcGIS, Azure, Python
             </p>
           </VerticalTimelineElement>
+          </VerticalTimeline>
       </div>
     </div>
   );
